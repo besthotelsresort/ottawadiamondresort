@@ -1,0 +1,2 @@
+# ottawadiamondresort
+Static site: ottawadiamondresort
